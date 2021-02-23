@@ -6,7 +6,7 @@ public class MoveScript : MonoBehaviour
 {
     public float speed;
     float moveVertical;
-    //varijabla
+    //
     float moveHorizontal;
     public Rigidbody2D rb;
     private void Update() {
