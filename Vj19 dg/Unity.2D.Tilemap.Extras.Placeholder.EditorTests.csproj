@@ -36,8 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\2d-extras\Tests\Editor\PlaceholderTests.cs" />
-     <None Include="Assets\2d-extras\Tests\Editor\Unity.2D.Tilemap.Extras.EditorTests.asmdef" />
+     <Compile Include="Assets\2d-extras-master\Tests\Editor\PlaceholderTests.cs" />
+     <None Include="Assets\2d-extras-master\Tests\Editor\Unity.2D.Tilemap.Extras.EditorTests.asmdef" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -234,7 +234,7 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:/Users/CAD-09ucenik/Documents/GitHub/Razvoj-Videoigara---Unity/Vj19 dg/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>C:/Users/CAD-09ucenik/Documents/FV/Dominik G/Razvoj-Videoigara---Unity/Vj19 dg/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.6f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
