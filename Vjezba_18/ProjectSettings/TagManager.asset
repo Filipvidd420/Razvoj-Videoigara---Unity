@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tilemap
+  - backgorund
+  - FarCamera
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - Player
+  - Enemy
+  - Tilemap
+  - Finish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 4243239229
+    locked: 0
+  - name: Player
+    uniqueID: 4242041011
+    locked: 0
+  - name: Enemy
+    uniqueID: 2093142497
+    locked: 0
+  - name: Tilemap
+    uniqueID: 565751111
+    locked: 0
+  - name: Finish
+    uniqueID: 3487084649
+    locked: 0
